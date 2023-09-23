@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
+    p Para recapitular, dentro del componente formativo, <strong>Manejo de residuos y registros en la bioseguridad de las producciones pecuarias,</strong> se abarcan temas como los sistemas de producción, en el cual se incluyen sistemas industriales, mixtos y de pastoreo; igualmente se tiene en cuenta el bienestar animal, como base para la producción animal; las especies animales en Colombia clasificadas en mayores y menores; incorporando el manejo animal en reproducción, de la misma forma se tiene en cuenta el aprovechamiento de excretas y purinas, también los insumos para producción de otros productos, la bioseguridad para el manejo y control de riesgo; se resalta el los registros y formatos ante la autoridad ambiental, la regulación del manejo de envases, empaque y embalaje, para finalizar lo concerniente al plan de contingencia como respuesta inmediata ante emergencia ambiental.
     p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
 
     .row.justify-content-center

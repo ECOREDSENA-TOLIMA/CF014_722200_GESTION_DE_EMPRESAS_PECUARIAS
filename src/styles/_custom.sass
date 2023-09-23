@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 70%
+    right: 65%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 10%
+    right: 2%
 
 
 @keyframes float1
@@ -17,3 +17,118 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: #000
+
+.boton *, .boton--sm *
+  color: #fff
+
+.tema1
+  .tarjeta--azul1
+    background-color:  #E8E8E8
+  .acordion__accion__btn--a
+    background-color: $color-acento-contenido
+    color: #fff
+  .tarjeta.tarjeta--azul1.acordion__activo
+    background-color: #DBF9BD
+
+.tema2
+  .cuadro-1
+    background-color: #E7F7F8
+    border-radius: 20px
+  .cuadro-1 .parrafo
+    margin-top: 30px
+  .cuadro-1 .imagen
+    margin-block-end: 30px
+  .tarjeta.tarjeta-1
+    width: 90%
+    height: 60%
+    border-radius: 0px
+    border-end-start-radius: 30px
+    border-start-end-radius: 30px
+  .linea-tiempo-d__item--selected .linea-tiempo-d__item__content
+    background-color: #DBF9BD
+  .cuadro-2
+    background-color: #FFFAD0
+    border-radius: 20px
+
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
+
+.tema3
+  .tarjeta--boton
+    background-color: #EBEEE8
+  .tarjeta.tarjeta-1
+    width: 90%
+    height: 60%
+    border-radius: 0px
+    border-end-start-radius: 30px
+    border-start-end-radius: 30px
+
+.tema4
+  .tarjeta.tarjeta-1
+    width: 90%
+    height: 60%
+    border-radius: 0px
+    border-end-start-radius: 30px
+    border-start-end-radius: 30px
+
+ 
+.tema5
+  .tarjeta.tarjeta-1
+    width: 90%
+    height: 60%
+    border-radius: 0px
+    border-end-start-radius: 30px
+    border-start-end-radius: 30px
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-contenido
+  .tarjeta.tarjeta--azul
+    background-color: #E8E8E8
+  .tarjeta.tarjeta--azul.acordion__activo
+    background-color: #DBF9BD
+  .acordion__accion__btn--a
+    background-color: $color-acento-contenido
+    color: #fff
+
+.tema6
+  .tarjeta.tarjeta-1
+    width: 90%
+    height: 60%
+    border-radius: 0px
+    border-end-start-radius: 30px
+    border-start-end-radius: 30px
+  .bloque-texto-b i
+    color: #1B3F5E
+    font-size: 1.5em
+  .bloque-texto-b.color-secundario:before
+    background-color: lighten(#1C364D, 70%)
+
+.tema7
+  .tarjeta.tarjeta-1
+    width: 90%
+    height: 60%
+    border-radius: 0px
+    border-end-start-radius: 30px
+    border-start-end-radius: 30px
+  .bloque-texto-b i
+    color: #1B3F5E
+    font-size: 1.5em
+  .bloque-texto-b.color-secundario:before
+    background-color: lighten(#1C364D, 70%)
+
+.tema8
+  .tabla-a th
+    background-color: #1B3F5E
+    color: #fff
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-contenido

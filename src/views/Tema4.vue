@@ -51,8 +51,8 @@
       .col-lg-3
         .tarjeta.tarjeta-1.p-4.mb-5(style="background-color:#1B3F5E")(data-aos="flip-up")
           .row.justify-content-center.align-items-center
-            .col-lg-10
-              h2(data-aos="fade-left")(style="color:#ffff") Aprovechamiento
+            .col-lg-12
+              h3(data-aos="fade-left")(style="color:#ffff") Aprovechamiento
 
     .cajon.color-primario.p-4.mb-5(data-aos="fade-down-left")(style="background-color:#EBEEE8")
       p En Colombia el sacrificio de vacunos destinado a la exportación presentó una disminución de 28,9 %, una tendencia que ha sido generalizada en el año. Pasó de un equivalente de 82.731 cabezas en el 3er trimestre de 2021 a 58.794 cabezas durante el mismo trimestre de 2022.  En comparación con el tercer trimestre del año 2018 alcanzó un total de 496.445 toneladas con un rendimiento carnal para el ganado vacuno de 52,4 % y para el porcino 79,7 %. En el sector avícola el rendimiento oscila entre el 71 % y 73 %. La mayoría de los residuos de la industria pecuaria son considerados subproductos y se utilizan como aditivos o materias primas en alimentos o piensos para animales (Gómez, 2019).
@@ -60,7 +60,9 @@
     p En los sistemas pecuarios también existen otro tipo de residuos que son producidos durante el proceso de desarrollo de los animales (heces, orín, plumas, desperdicio de alimentos, entre otros) que son aptos para un proceso de aprovechamiento.
     p.mb-5 Para complementar el tema sobre el proceso de aprovechamiento de residuos, ver el siguiente vídeo: 
 
-    Separador 
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/OXCcle6aU08" title="Uso de residuos pecuarios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row
       .col-lg-3
@@ -118,6 +120,9 @@
       
     p.mb-5 Para complementar el tema sobre manejo y disposición de residuos de la producción pecuaria, como la normativa, ver el siguiente vídeo: 
 
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/xR21CVyJNJU" title="Manejo y disposición de residuos de la producción avícola" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 

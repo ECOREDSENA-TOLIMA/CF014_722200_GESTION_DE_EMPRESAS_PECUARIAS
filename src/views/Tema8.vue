@@ -47,7 +47,7 @@
               tr
                 td(style="background-color:#E2E8EC") Microorganismos vivos  
                 td(style="background-color:#E2E8EC") Son sintetizados por el hombre en el laboratorio. Comprenden un amplio grupo de sustancias. 
-                td(style="background-color:#E2E8EC") Thichoderma harzianum <br>Paecilomuces lilacinus <br>Metarhizium abisopliae <br>Beauveria bassiana
+                td(style="background-color:#E2E8EC") <em>Thichoderma harzianum</em> <br><em>Paecilomuces lilacinus</em> <br><em>Metarhizium abisopliae</em> <br><em>Beauveria bassiana</em>
               
     p.mb-5 Después de tener claro el tipo de sustancia que se utiliza y los derivados, se debe clasificar el tipo de intoxicación de acuerdo con la exposición, tipo u origen, como se muestra a continuación:
 
@@ -187,6 +187,14 @@
             p(data-aos="fade-left") El uso de estos elementos debe hacerse de acuerdo con las recomendaciones del fabricante y con el uso de los EPP para evitar cualquier riesgo a la salud humana.
 
     p.mb-5 Para más información sobre el manejo de derrames se solicita al aprendiz revisar el documento atención de derrames de la ARP Sura, ubicado en la sección del material complementario. Para complementar el tema sobre manejo ecológico de plagas, ver el siguiente vídeo: 
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/0eoL8DTl7P8" title="Manejo ecológico de plagas y enfermedades" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+
+
+
 
 </template>
 

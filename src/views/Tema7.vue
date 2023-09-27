@@ -51,7 +51,10 @@
     p No existe un formato único para el control de registro RESPEL, por tal razón los formatos son formulados por el finquero y deben contener la información básica necesaria. En el material complementario podrá acceder a ejemplos de formatos de RESPEL, relacionados con la Unidad de víctimas y el ICBF.
     p.mb-5 Para complementar el tema sobre RESPEL, ver el siguiente vídeo: 
 
-    Separador
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/dg9kRNXM17E" title="Residuos peligrosos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
 
 
 

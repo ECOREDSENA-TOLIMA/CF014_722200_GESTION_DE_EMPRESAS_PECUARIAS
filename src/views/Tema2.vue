@@ -14,14 +14,14 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Especies pecuarias</em>
         figure
-          img(src='@/assets/curso/temas/tema2/img-1.svg', alt='')  
+          img(src='@/assets/curso/temas/tema2/img-1.svg', alt='Figura 1 Especies pecuarias. En la figura se observa como ejemplo un equino, bovino, oveja, gallo y cerdo.')  
 
     .row
       .col-lg-3
         .tarjeta.tarjeta-1.p-4.mb-5(style="background-color:#1B3F5E")(data-aos="flip-up")
           .row.justify-content-center.align-items-center
-            .col-lg-9
-              h2(data-aos="fade-left")(style="color:#ffff") Características
+            .col-lg-12
+              h3(data-aos="fade-left")(style="color:#ffff") Características
 
     p.mb-5 Las diferentes especies de animales se caracterizan por:
 
@@ -73,7 +73,7 @@
       .col-md-8.mt-3
         p En la reproducción se debe garantizar que los cruces a realizar sean de los individuos que mejor material genético contengan, de esta manera se asegura que las crías hereden dicho material genético y se conviertan en un producto de calidad, así mismo, el clima es un factor determinante al momento de elegir la reproducción, ya que se pueden hacer cruces de razas para que su adaptabilidad al medio sea mejor.
 
-    p.mb-5.text-center(data-aos="fade-down-left") En el apareamiento se presentan dos tipos:
+    p.mb-5(data-aos="fade-down-left") En el apareamiento se presentan dos tipos:
 
     .row.mb-5(data-aos="fade-down-left")
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -106,14 +106,14 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Etapas de reproducción</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema2/img-8-1.svg', alt='')  
+          img.mb-3(src='@/assets/curso/temas/tema2/img-8-1.svg', alt='Celo Monta Gestación Parto Lactación Destete')  
 
     .row.mt-5
       .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Etapas de reproducción</em>
         figure
-          img(src='@/assets/curso/temas/tema2/img-8-2.svg', alt='o')  
+          img(src='@/assets/curso/temas/tema2/img-8-2.svg', alt='Celo Monta Gestación Parto Lactación Destete')  
 
     p.mb-5 En el proceso de reproducción aviar no se tienen en cuenta las etapas de lactancia y destete, ya que, a nivel industrial después de la postura de los huevos, estos son incubados de manera mecánica para su eclosión.
 

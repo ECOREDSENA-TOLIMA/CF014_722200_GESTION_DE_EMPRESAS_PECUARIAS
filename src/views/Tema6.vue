@@ -78,14 +78,14 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Código de colores residuos sólidos comunes</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema6/img-2-1.svg', alt='')  
+          img.mb-3(src='@/assets/curso/temas/tema6/img-2-1.svg', alt='Figura 3 Código de colores residuos sólidos comunes. En la figura se observa: la caneca color blanco con el rótulo residuos aprovechables: plástico, cartón, vidrio, papel, metales, igualmente la caneca color verde con el rótulo residuos orgánicos aprovechables: restos de comida, desechos agrícolas, y la caneca color negro con el rótulo residuos no aprovechables: papel higiénico, servilletas, papeles y cartones, contaminados con comida, papeles metalizados.')  
 
     .row.mt-5
       .col-10.col-md-10.col-lg-12.movil.mb-5(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Código de colores residuos sólidos comunes</em>
         figure
-          img(src='@/assets/curso/temas/tema6/img-2-2.svg', alt='o')  
+          img(src='@/assets/curso/temas/tema6/img-2-2.svg', alt='Figura 3 Código de colores residuos sólidos comunes. En la figura se observa: la caneca color blanco con el rótulo residuos aprovechables: plástico, cartón, vidrio, papel, metales, igualmente la caneca color verde con el rótulo residuos orgánicos aprovechables: restos de comida, desechos agrícolas, y la caneca color negro con el rótulo residuos no aprovechables: papel higiénico, servilletas, papeles y cartones, contaminados con comida, papeles metalizados.')  
     
     .row.justify-content-center.align-items-center
       .col-lg-10

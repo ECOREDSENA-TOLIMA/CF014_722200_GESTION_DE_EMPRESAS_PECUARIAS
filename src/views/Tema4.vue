@@ -83,7 +83,7 @@
             .h2 1
           p.text-center 
             b Conpes 3874 de 2016 Republica de Colombia 21 de noviembre de 2016.
-          p.text-center Política nacional para la gestión integral de residuos solidos hermanos. 
+          p.text-center Política nacional para la gestión integral de residuos sólidos hermanos. 
 
       .col-md-6.col-xl.mb-4.mb-xl-0
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 

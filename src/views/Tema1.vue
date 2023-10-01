@@ -32,7 +32,7 @@
 
       .row(titulo="Sistemas de pastoreo ")
         .col-md-8.mb-4.mb-md-0
-          p ELos sistemas de pastoreo son la interacción de especies animales con cultivos, generalmente establecidos para el consumo de los animales. Este tipo de proceso mejora los estándares de producción y calidad de los productos a obtener, ya que el aumento de la calidad y cantidad de nutrientes tiene efecto positivo en el desarrollo de los animales disminuyendo tiempos de producción y costos de producción. 
+          p Los sistemas de pastoreo son la interacción de especies animales con cultivos, generalmente establecidos para el consumo de los animales. Este tipo de proceso mejora los estándares de producción y calidad de los productos a obtener, ya que el aumento de la calidad y cantidad de nutrientes tiene efecto positivo en el desarrollo de los animales disminuyendo tiempos de producción y costos de producción. 
         .col-md-4
           figure
             img(src='@/assets/curso/temas/tema1/img-4.png', alt='')

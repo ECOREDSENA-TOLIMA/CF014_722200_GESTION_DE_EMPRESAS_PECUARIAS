@@ -164,7 +164,7 @@ export default {
     {
       tema: '3. Insumos',
       referencia:
-        'Criador. (2020). Insecticida/concentrado emulsionable ficha técnica.',
+        'Cridor. (2020). Insecticida/concentrado emulsionable ficha técnica.',
       tipo: 'PDF',
       link:
         'https://www.syngenta.com.mx/sites/g/files/kgtney1381/files/media/document/2022/07/28/fichatecnica-cridor.pdf',

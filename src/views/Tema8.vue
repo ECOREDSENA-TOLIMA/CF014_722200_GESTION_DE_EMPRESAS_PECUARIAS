@@ -46,7 +46,7 @@
                 td Organofosforados <br>Organoclorados <br>Carbamantos <br>Ditiocarbamantos <br>Biperidilos <br>Derivados <br>warfarinicos 
               tr
                 td(style="background-color:#E2E8EC") Microorganismos vivos  
-                td(style="background-color:#E2E8EC") Son sintetizados por el hombre en el laboratorio. Comprenden un amplio grupo de sustancias. 
+                td(style="background-color:#E2E8EC") Son virus, bacterias y hongos utilizados en el control biológico de plagas.
                 td(style="background-color:#E2E8EC") <em>Thichoderma harzianum</em> <br><em>Paecilomuces lilacinus</em> <br><em>Metarhizium abisopliae</em> <br><em>Beauveria bassiana</em>
               
     p.mb-5 Después de tener claro el tipo de sustancia que se utiliza y los derivados, se debe clasificar el tipo de intoxicación de acuerdo con la exposición, tipo u origen, como se muestra a continuación:
@@ -125,7 +125,7 @@
                       | Antecedente comprobado de exposición al plaguicida y manifestaciones clínicas como consecuencia de esta exposición.
                     li 
                       i.lista-ul__vineta
-                      | Que las características del cuadro clínico, la o las vías de exposición implicadas, la relación entre el agente y el mecanismo de acción y su asociación en el tiempo se relacionen con las manifestaciones clínicas de la intoxicación.médicos legales.
+                      | Que las características del cuadro clínico, la o las vías de exposición implicadas, la relación entre el agente y el mecanismo de acción y su asociación en el tiempo se relacionen con las manifestaciones clínicas de la intoxicación.
               tr
                 td(style="background-color:#E2E8EC") Caso confirmado por nexo epidemiológico 
                 td(style="background-color:#E2E8EC") Caso con cuadro clínico compatible con IAP relacionable con otro(s) caso(s) confirmado(s) o evento(s) medioambientales, en los cuales estén implicados plaguicidas. <br>El nexo debe tener relación en el tiempo y la zona geográfica.

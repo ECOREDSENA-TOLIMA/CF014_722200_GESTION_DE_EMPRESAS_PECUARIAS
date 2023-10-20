@@ -15,8 +15,8 @@
           p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Especies pecuarias</em>
         figure
           img(src='@/assets/curso/temas/tema2/img-1.svg', alt='Figura 1 Especies pecuarias. En la figura se observa como ejemplo un equino, bovino, oveja, gallo y cerdo.')  
-          figcaption Nota. “New Africa. Collage with horse and other pets on white background”. “Adove Stock”. 371752482. https://as1.ftcdn.net/v2/jpg/03/71/75/24/1000_F_371752482_DAW50AaHTyLyvYi0QABPlCK8nu9FuvXy.jpg
-
+          figcaption Nota. “New Africa. Collage with horse and other pets on white background”. “Adove Stock”. 371752482. <a href="https://as1.ftcdn.net/v2/jpg/03/71/75/24/1000_F_371752482_DAW50AaHTyLyvYi0QABPlCK8nu9FuvXy.jpg">Especie Animal</a>
+    
     .row
       .col-lg-3
         .tarjeta.tarjeta-1.p-4.mb-5(style="background-color:#1B3F5E")(data-aos="flip-up")

@@ -115,7 +115,7 @@
           .tarjeta-numerada__numero
             .h2 4
           p.text-center 
-            b Norma técnica colombiana NTC5167 de 2011 por Icontec
+            b Norma técnica colombiana NTC5167 de 2011 por Icontec.
           p.text-center Productos para la Industria Agrícola. Productos Orgánicos usados como abonos o fertilizantes y enmiendas o acondicionadores del suelo. 
       
     p.mb-5 Para complementar el tema sobre manejo y disposición de residuos de la producción pecuaria, como la normativa, ver el siguiente vídeo: 
